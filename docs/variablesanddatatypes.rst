@@ -30,7 +30,7 @@ In Python we don't specify what kind of data we are going to put in a variable. 
     >>> a + b
     36
 
-From the above example you can understand that to declare a variable in Python , what you need is just to type the name and the value. Python can also manipulate strings They can be enclosed in single quotes or double quotes like
+From the above example you can understand that to declare a variable in Python , what you need is just to type the name and the value. Python can also manipulate strings. They can be enclosed in single quotes or double quotes like
 
 ::
 
